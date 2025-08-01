@@ -546,7 +546,7 @@
             alert('Please fill in all fields.');
             return;
         }
-        const phone = '250788612171';
+        const phone = '250793467926';
         const message = encodeURIComponent(
             'Service Quote Request\n' +
             'Name: ' + name + '\n' +
